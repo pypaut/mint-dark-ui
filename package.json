@@ -1,15 +1,15 @@
 {
-  "name": "one-dark-ui",
+  "name": "mint-dark-ui",
   "theme": "ui",
-  "version": "1.12.5",
-  "description": "Atom One dark UI theme",
+  "version": "0.0.1",
+  "description": "Linux Mint UI theme for Atom",
   "keywords": [
     "dark",
     "adaptive",
     "ui"
   ],
   "license": "MIT",
-  "repository": "https://github.com/atom/one-dark-ui",
+  "repository": "https://github.com/pypaut/mint-dark-ui",
   "main": "lib/main",
   "engines": {
     "atom": ">0.40.0"
